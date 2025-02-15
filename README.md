@@ -1,2 +1,3 @@
-# odin-recipes
-Recipes
+# French Recipes
+
+Making a website of tasty French recipes.
